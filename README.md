@@ -13,7 +13,7 @@ Avoid to set TX freguency between 400 - 406 Mhz and serial number format between
 Once you have flashed the RS41Configurator firmware on the RS41, you can reconfigure the radiosonde and make the changes permanent.   
 This can be done through a browser on you mobile phone or computer.
 
-![Sonde config](img/rs41config-sonde.png) ![Wifi](img/rs41config-wifi.png) ![Wifi](img/rs41config-misc.png) ![Wifi](img/rs41config-update.png) ![Wifi](img/rs41config-about.png)
+![Sonde config](img/rs41config-menus.png)
 
 ##Building
 
