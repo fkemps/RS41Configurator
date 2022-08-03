@@ -6,16 +6,16 @@ RS41 Configurator allows you to reprogram the weather sonde via a browser. Give 
 
 ![RS41 Configurator](img/rs41configurator.png)
 
-### Caution
+### Caution!
 Avoid to set TX freguency between 400 - 406 Mhz and serial number format between C0000000 - Z9999999. This to avoid violating transmitting law regulations and weather sonde hunters reporting your RS41 into online systems (or knocking on your door before you know it ;-)
 
-##Impression
+## Impression
 Once you have flashed the RS41Configurator firmware on the RS41, you can reconfigure the radiosonde and make the changes permanent.   
 This can be done through a browser on you mobile phone or computer.
 
 ![Sonde config](img/rs41config-menus.png)
 
-##Building
+## Building
 
 ### Hardware
 
